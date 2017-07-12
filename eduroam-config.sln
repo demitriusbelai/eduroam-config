@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "eduroam-config", "eduroam-config\eduroam-config.vcxproj", "{B62E6388-8F05-4D71-919A-4F44595A8A22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B62E6388-8F05-4D71-919A-4F44595A8A22}.Debug|x64.ActiveCfg = Debug|x64
+		{B62E6388-8F05-4D71-919A-4F44595A8A22}.Debug|x64.Build.0 = Debug|x64
+		{B62E6388-8F05-4D71-919A-4F44595A8A22}.Debug|x86.ActiveCfg = Debug|Win32
+		{B62E6388-8F05-4D71-919A-4F44595A8A22}.Debug|x86.Build.0 = Debug|Win32
+		{B62E6388-8F05-4D71-919A-4F44595A8A22}.Release|x64.ActiveCfg = Release|x64
+		{B62E6388-8F05-4D71-919A-4F44595A8A22}.Release|x64.Build.0 = Release|x64
+		{B62E6388-8F05-4D71-919A-4F44595A8A22}.Release|x86.ActiveCfg = Release|Win32
+		{B62E6388-8F05-4D71-919A-4F44595A8A22}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
